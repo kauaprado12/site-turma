@@ -11,6 +11,14 @@ header {
     margin: 0;
     padding: 0;
 }
+body{
+    .konkhmer-sleokchher-regular {
+        font-family: "Konkhmer Sleokchher", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
 
 .cabecalho {
     background-color: #424E61;
@@ -45,5 +53,5 @@ header {
 }
 
 .escola-titulo{
-    padding: 23px 0;
+    padding: 24px 0;
 }
