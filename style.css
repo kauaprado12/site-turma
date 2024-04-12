@@ -12,8 +12,8 @@ header {
     padding: 0;
 }
 body{
-    font-family: "Konkhmer Sleokchher", system-ui;
-      }
+    .konkhmer-sleokchher-regular {
+        font-family: "Konkhmer Sleokchher", system-ui;
       
 }
 
